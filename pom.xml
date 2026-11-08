@@ -21,7 +21,6 @@
             <artifactId>jsoup</artifactId>
             <version>1.23.2</version>
         </dependency>
-
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
